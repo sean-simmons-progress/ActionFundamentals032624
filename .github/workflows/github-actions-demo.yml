@@ -1,9 +1,6 @@
 name: GitHub Actions Demo
 on:
   push:
-    branches:
-      - main
-      - sean-simmons-progress/day1
     paths-ignore: [.github/**]
   pull_request:
     branches: [ main ]

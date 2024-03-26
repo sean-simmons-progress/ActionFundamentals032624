@@ -1,9 +1,6 @@
 name: CI Build for Docker Action
 on:
   push:
-    branches:
-      - main
-      - sean-simmons-progress/day1
     paths: [ hello-world-docker-action/** ]
   workflow_dispatch:
 
