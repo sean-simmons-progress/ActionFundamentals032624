@@ -29,3 +29,22 @@
 
 ### docker action
     - run a docker container as an action
+
+## contexts and expressions
+![alt text](image/contexts.png)
+
+## workflow commands
+![alt text](image/workflowcommand.png)
+![alt text](image/advanced.png)
+
+## actions
+### conainter action:
+![alt text](image/container.png)
+example:
+![alt text](image/containerExample.png)
+
+### javascript
+![alt text](image/javascript.png)
+
+### composite
+![alt text](image/composite.png)
